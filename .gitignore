@@ -2,3 +2,9 @@
 
 #json files
 package-lock.json
+
+#enviroments
+.env
+
+#output folder
+/build
