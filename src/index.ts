@@ -19,8 +19,6 @@ server.register(blogRoutes);
 
 const start = async () => {
   try {
-
-
       await server.listen(port, () => {
         console.log(`\nServer has been started on ${port} port...`)
       });
